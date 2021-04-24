@@ -1,0 +1,23 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "This project will allow animal enthusiasts to access the data from different locations and browsers without needing to download it to their device.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilhite27/Zookeepr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilhite27/Zookeepr/issues"
+  },
+  "homepage": "https://github.com/Wilhite27/Zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
